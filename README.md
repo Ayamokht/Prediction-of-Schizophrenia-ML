@@ -1,4 +1,4 @@
-# Prediction-of-Schizophrenia-using-Brain-Anatomy
+# 🧠 Prediction-of-Schizophrenia-using-Brain-Anatomy 🧠
 
 This project explores the application of machine learning to predict schizophrenia from structural MRI data, aiming to contribute to early detection and better clinical management of this severe mental disorder. Schizophrenia is characterized by significant cognitive, emotional, and behavioral disruptions, often leading to reduced life expectancy. This study utilizes grey matter measurements extracted from MRI scans to develop predictive models, focusing on Regions of Interest (ROIs) for optimal balance between information richness and computational feasibility.
 
@@ -35,6 +35,8 @@ using [cat12](http://www.neuro.uni-jena.de/cat/) software which provides:
    - **Performance**:
      - AUC (Test): **0.8455**
      - Balanced Accuracy (Test): **0.7619**
+    
+➡️ In the private test, the model has an AUC of **0.89**
 
 ## Results and Insights
 
@@ -42,7 +44,7 @@ using [cat12](http://www.neuro.uni-jena.de/cat/) software which provides:
 - SHAP (SHapley Additive exPlanations) was used to analyze feature importance, identifying key brain regions contributing to the predictions.
 - Key predictors include **rPal GM Vol** and **lMedFroCbr CSF Vol**, which were strongly associated with the likelihood of schizophrenia.
 
-## Installation
+## Project Installation
 
 This starting kit requires Python and the following dependencies:
 
