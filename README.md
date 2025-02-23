@@ -1,4 +1,4 @@
-# 🧠 Prediction-of-Schizophrenia-using-Brain-Anatomy 🧠
+# 🧠 Prediction of Schizophrenia using Brain Anatomy 🧠
 
 This project explores the application of machine learning to predict schizophrenia from structural MRI data, aiming to contribute to early detection and better clinical management of this severe mental disorder. Schizophrenia is characterized by significant cognitive, emotional, and behavioral disruptions, often leading to reduced life expectancy. This study utilizes grey matter measurements extracted from MRI scans to develop predictive models, focusing on Regions of Interest (ROIs) for optimal balance between information richness and computational feasibility.
 
